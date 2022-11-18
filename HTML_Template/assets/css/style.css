@@ -52,7 +52,7 @@
    01.1: Reset
    ********************* */
 :root {
-  --c1: #ff0076;
+  --c1: #d12d7f;
   --c2: #590f87;
   --title-color: #02072e;
   --text-color: #666666;
@@ -3144,9 +3144,7 @@ textarea.form-control {
 .widget:not(:last-child) {
   margin-bottom: 40px;
 }
-.widget_title{
-  font: var(--text-color);
-}
+
 .widget:not(:last-child).mb-30 {
   margin-bottom: 30px;
 }
