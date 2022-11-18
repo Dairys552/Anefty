@@ -3144,17 +3144,20 @@ textarea.form-control {
 .widget:not(:last-child) {
   margin-bottom: 40px;
 }
-
+.widget_title{
+  font: var(--text-color);
+}
 .widget:not(:last-child).mb-30 {
   margin-bottom: 30px;
 }
 
-.widget .widget-title {
+.widget .widget_title {
   margin-bottom: 20px;
   line-height: 1.2;
+  -webkit-text-stroke-color: #fff;
 }
 
-.widget .widget-title.left-border {
+.widget .widget_title.left-border {
   position: relative;
   padding-left: 18px;
 }
