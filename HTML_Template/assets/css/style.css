@@ -4060,7 +4060,7 @@ textarea.form-control {
 }
 
 .header-main.style--three.sticky {
-  background-color: var(--white);
+  background-color: #212e4d;
   position: fixed;
   top: 0;
   left: 0;
@@ -4078,7 +4078,7 @@ textarea.form-control {
 }
 
 .header-main.style--four {
-  background-color: var(--white);
+  background-color: var(#02072e);
 }
 
 .header-main.style--four .header-inner:after {
@@ -4148,7 +4148,7 @@ textarea.form-control {
 }
 
 .header-main.style--four.sticky {
-  background-color: var(--white);
+  background-color: #02072e;
   position: fixed;
   top: 0;
   left: 0;
